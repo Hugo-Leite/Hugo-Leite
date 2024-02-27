@@ -12,7 +12,7 @@
 <strong>React Framework:</strong> I'm passionate about the React framework and use it in front-end projects. I have experience creating reusable components, managing complex states, and applying modern development concepts with React.</p>
 
 ### Backend Development
-<p><strong>Efficiency in Backend:</strong> I am deeply involved in backend development using Node.js in conjunction with the Next.js framework. I appreciate the efficiency and speed that these technologies bring to building robust web applications.
+<p><strong>Efficiency in Backend:</strong> I am deeply involved in backend development using Node.js. I appreciate the efficiency and speed that these technologies bring to building robust web applications.
 
 <strong>MongoDB Database:</strong> I am proficient in working with NoSQL databases, especially MongoDB. The flexibility in storage and scalability fascinate me and enable me to create reliable backend systems.</p>
 
