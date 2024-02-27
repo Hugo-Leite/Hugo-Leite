@@ -51,7 +51,25 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## My Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 aling="center" src="https://github-readme-stats.vercel.app/api?username=Hugo-Leite&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hugo-Leite&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Leite&theme=radical&layout=compact&hide_border=true" />
+</a>
+
+
+&nbsp;
+&nbsp;
+
+## Contacts
 
 <div> 
 <a href ="https://mail.google.com/mail/?view=cm&fs=1&to=ribeirohugo946@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
