@@ -1,5 +1,5 @@
 
-<span><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" style="transform: rotate(180deg)"></span>
+<span><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8F0D87&section=header"</span>
 
 # Hi, I'm Hugo
 
