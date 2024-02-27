@@ -50,7 +50,7 @@
 
 &nbsp;
 &nbsp;
-
+<!--
 ## My Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -68,6 +68,7 @@
 
 &nbsp;
 &nbsp;
+-->
 
 ## Contacts
 
